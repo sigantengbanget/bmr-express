@@ -27,7 +27,6 @@
     "typescript": "^5.8.3"
   },
   "devDependencies": {
-    "@types/jsonwebtoken": "^9.0.9",
-    "@vercel/node": "^5.1.16"
+    "@types/jsonwebtoken": "^9.0.9"
   }
 }
